@@ -1,7 +1,7 @@
 Package: provParseR
 Title: Pulls Information from Prov.Json Files
-Version: 0.1.2
-Date: 2019-06-10
+Version: 0.2
+Date: 2019-08-23
 Authors@R: c(
     person("Orenna", "Brand", email = "o.brand@columbia.edu", role = "aut"),
     person("Joseph", "Wonsil", email = "jwonsil@carthage.edu", role = "aut"),
@@ -22,11 +22,11 @@ Suggests: testthat
 URL: https://github.com/End-to-end-provenance
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-06-10 20:29:55 UTC; blerner
+Packaged: 2019-08-28 21:09:30 UTC; blerner
 Author: Orenna Brand [aut],
   Joseph Wonsil [aut],
   Emery Boose [aut],
   Barbara Lerner [cre]
 Maintainer: Barbara Lerner <blerner@mtholyoke.edu>
 Repository: CRAN
-Date/Publication: 2019-06-13 13:10:03 UTC
+Date/Publication: 2019-08-28 21:40:02 UTC
