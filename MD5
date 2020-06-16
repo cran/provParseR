@@ -1,9 +1,9 @@
-799043ff49ba8875343b618bca64346b *DESCRIPTION
+3ee74ebc5a4ace1e19bfdc4310544cdd *DESCRIPTION
 4ddd17b0c9241d7b24a4960caefe8e40 *LICENSE
-ee432632ab318cb6c4355474376b3c78 *NAMESPACE
-564c2d9bed86df76cf75aa97eb4a5190 *NEWS.md
-84b8685e30f526e35192f4c571a95689 *R/provParse.R
-d8fbb2b9aca3b36444e3f40fac37d960 *README.md
+00c4e42813a4e32c1e0aa3de561f38af *NAMESPACE
+e0590bbb81cb0fd874861e61a6d69a37 *NEWS.md
+750018cf1216f60f76a9edf4450fa033 *R/provParse.R
+7e82111b2b825223f09beb9782ca062a *README.md
 f05ac9517d85a56c634148fdb9e40734 *inst/testdata/ddg.json
 d5cef8b7d31539765e7e3ef4541790c4 *inst/testdata/empty.json
 eed97e2c7398a1eeb690e36df6f96436 *inst/testdata/noRunArgs.json
@@ -32,7 +32,7 @@ ba0f4b5a9b2ae20a40309154cce97b02 *inst/testscripts/source3.r
 07093f635700d955631acc3181951d0e *inst/testscripts/valType.R
 b19871babe985920881db72f3ca0e824 *inst/testscripts/x.csv
 c92bfedc36dc16c25bba8979b9286b1b *man/ProvInfo-class.Rd
-0d5d90db9be03c47cbe50169bf06b36a *man/access.Rd
+7b466984a1e0320a3d3fddff219dc698 *man/access.Rd
 1ea71a9a321cd0eac9b51ced33997e8d *man/prov.parse.Rd
 f05ac9517d85a56c634148fdb9e40734 *tests/ddg.json
 e2515edfb5228a25499ed9ad21e421f9 *tests/testthat.R
