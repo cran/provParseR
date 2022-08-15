@@ -1,7 +1,7 @@
 Package: provParseR
 Title: Pulls Information from Prov.Json Files
-Version: 0.3
-Date: 2020-06-15
+Version: 1.0
+Date: 2022-08-08
 Authors@R: c(
     person("Orenna", "Brand", email = "o.brand@columbia.edu", role = "aut"),
     person("Joseph", "Wonsil", email = "jwonsil@carthage.edu", role = "aut"),
@@ -16,17 +16,16 @@ Description: R functions to access provenance information collected by 'rdt' or
 Depends: R (>= 3.3)
 License: GPL-3 | file LICENSE
 Encoding: UTF-8
-LazyData: true
 Imports: jsonlite, methods
 Suggests: testthat
 URL: https://github.com/End-to-end-provenance
-RoxygenNote: 7.1.0
+RoxygenNote: 7.2.0
 NeedsCompilation: no
-Packaged: 2020-06-15 22:04:54 UTC; blerner
+Packaged: 2022-08-12 20:10:02 UTC; blerner
 Author: Orenna Brand [aut],
   Joseph Wonsil [aut],
   Emery Boose [aut],
   Barbara Lerner [cre]
 Maintainer: Barbara Lerner <blerner@mtholyoke.edu>
 Repository: CRAN
-Date/Publication: 2020-06-16 16:30:16 UTC
+Date/Publication: 2022-08-15 22:20:05 UTC
